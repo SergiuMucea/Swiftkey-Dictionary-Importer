@@ -16,3 +16,10 @@ At the moment, there is no compatibility between the two platforms and Gboard wi
 5. Take the .txt file and put it on your phone/drive and upload the dictionary in the Google Gboard
 
 For example purposes, a Gboard and a Swiftkey dictionary file have been added in the docs folder.
+
+### Important notice!
+
+It is important to be aware of the fact that importing a large number of words in Gboard may actually disturb the typing experience rather than improve it.<br>
+It could potentially lead to some issues, like cluttering suggestions or making it harder to find commonly used words.<br>
+If you *do* decide to import all Microsoft SwiftKey words, then make sure to test if it is worth it.<br>
+If it does not bring any value to your experience, then probably it is best to *delete learned words and data* from the Gboard settings and leave Google learn your typing habbits by itself :wink:
